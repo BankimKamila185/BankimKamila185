@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tanay1805.Tanay1805"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BankimKamila185.BankimKamila185"/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hola+Amigo!+👋;+I'm+Tanay+Sahajwalla!;" /></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hola+Amigo!+👋;+I'm+ Bankim Chandra Kamila!;" /></h1>
 
 <p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF">
@@ -24,25 +24,25 @@
 
 
 <div align="center">
-  <a href="https://www.instagram.com/tanay.sahajwalla/" target="_blank">
+  <a href="https://www.instagram.com/bankimkamila.23//" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sahajwallatanay1@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bankimkamila185@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/tanay-sahajwalla-919139280" target="_blank">
+  <a href="www.linkedin.com/in/bankim-chandra-kamila-b07b59236" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
   </a>
-  <a href="https://medium.com/tanay.1805" target="_blank">
+  <a href="https://medium.com/BankimKamila185" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="medium logo"  />
   </a>
-  <a href="https://twitter.com/@SahajwallaTanay" target="_blank">
+  <a href="https://twitter.com/@BankimKamila185" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
   </a>
-  <a href="https://www.behance.net/tanays" target="_blank">
+  <a href="https://www.behance.net/bankim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="behance logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/2023_tanays" target="_blank">
+  <a href="https://www.hackerrank.com/profile/bankimkamila185" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="hackerrank logo"  />
   </a>
   <a href="https://www.patreon.com/Nirukti" target="_blank">
@@ -66,7 +66,7 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Tanay1805/Tanay1805/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/BankimKamila185/BankimKamila185/blob/output/github-contribution-grid-snake-dark.svg" />
   
 
 </div>
@@ -78,11 +78,11 @@
 
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Tanay1805&bg_color=ffffff&color=0042aa&line=b88504&point=0061ff&area=true&area_color=f2c33f&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanay1805&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanay1805&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanay1805&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanay1805&theme=solarized&utcOffset=5.3)
+![](https://github-readme-activity-graph.vercel.app/graph?username=BankimKamila185&bg_color=ffffff&color=0042aa&line=b88504&point=0061ff&area=true&area_color=f2c33f&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BankimKamila185&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BankimKamila185&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BankimKamila185&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BankimKamila185&theme=solarized&utcOffset=5.3)
 
 </div>
 
