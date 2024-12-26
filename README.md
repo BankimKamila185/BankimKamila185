@@ -66,7 +66,7 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/BankimKamila185/BankimKamila185/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="[![Github Snake](https://raw.githubusercontent.com/BankimKamila185/snake1/refs/heads/main/github-user-contribution-3.svg)" />
   
 
 </div>
@@ -94,7 +94,7 @@
     
 </p>
 
-[![Github Snake](https://raw.githubusercontent.com/BankimKamila185/snake1/refs/heads/main/github-user-contribution-3.svg)
+
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
