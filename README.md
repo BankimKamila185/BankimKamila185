@@ -94,6 +94,7 @@
     
 </p>
 
+https://raw.githubusercontent.com/BankimKamila185/snake1/refs/heads/main/github-user-contribution-3.svg
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
