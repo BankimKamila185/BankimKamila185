@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Bankim Kamila" />
   </a>
   
-   <img align="right" alt="Coding" width="400" src="![BraveDown Com   Squid Game Night Shift   1740294384  ](https://github.com/user-attachments/assets/4667d9cf-e8e8-4ca5-80ce-9fea82589cf3)">
+   <img align="right" alt="Coding" width="400" src="file:///C:/Users/WINDOWS%2011/Downloads/[BraveDown.Com]%20[Squid%20Game%20Night%20Shift]%20[1740294384]%20.gif>
   <br/>
  
   
