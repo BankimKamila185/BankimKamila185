@@ -65,7 +65,19 @@
   
   <!-- About Section -->
   # About me
-   <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+  <a href="https://www.linkedin.com/in/bankim-chandra-kamila-b07b59236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bankim Kamila"/>
+  </a>
+  
+  <a href="https://www.instagram.com/bankimkamila.23/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Bankim Kamila" />
+  </a>
+  
+   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+  <br/>
+ 
+  
+ 
   <p>
     <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     ✌️ &emsp; Enjoy doing programming <br/><br/>
