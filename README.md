@@ -67,7 +67,7 @@
 
 <p>
   <img align="right" width="300" src="/assets/programmer.gif" alt="Coding gif" />
- <img   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="35" height="35"/> Enjoy doing programming  Enjoy doing programming![image](https://github.com/user-attachments/assets/b5d3c754-f169-468f-93a3-8b58b9b86e43)
+ <img   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="35" height="35"/> ##Enjoy doing programming 
 
   <br/><br/>
   <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" /> Love writing code and learning new features
