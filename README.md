@@ -54,7 +54,7 @@
   <!-- About Section -->
   # About me
   <a href="https://www.linkedin.com/in/bankim-chandra-kamila-b07b59236/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bankim Kamila"/>
+    <img width="50" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Bankim Kamila"/>
   </a>
   
   <a href="https://www.instagram.com/bankimkamila.23/" target="_blank">
