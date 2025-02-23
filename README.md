@@ -67,7 +67,7 @@
 
   
  
-  <p>
+  <p style= "font size: 20px;">
     <img align="right" width="200" src="/assets/programmer.gif" alt="Coding gif" />
     ✌️ &emsp; Enjoy doing programming    <br/><br/>
     ❤️ &emsp; Love writing code and learning new features <br/><br/>
