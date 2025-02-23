@@ -8,7 +8,7 @@
   </div>             
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!!🚀;+I+am+Bankim+Chandra+Kamila;+Welcome+to+my+Profile!💻" />     
   <div align="center">   
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
+    <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s2048x3072/ae238518f2d1bf3c0b68c97a94ff9ba5f7a8b59c.gifv " height="20" width="100%">  
   </div>   
   
   [![MasterHead](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s2048x3072/ae238518f2d1bf3c0b68c97a94ff9ba5f7a8b59c.gifv)](https://github.com/BankimKamila185 )
