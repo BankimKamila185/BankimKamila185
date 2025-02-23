@@ -1,12 +1,12 @@
 <a href="https://komarev.com/ghpvc/?username=BankimKamila185 ">     
-    <img         <img align="Center" src="https://komarev.com/ghpvc/?username=BankimKamila185-21&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+    <img         <img align="rigth" src="https://komarev.com/ghpvc/?username=BankimKamila185-21&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 
      
   </a>                  
   <div align="center">                                     
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">           
   </div>             
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!!🚀;+I+am+Bankim+Chandra+Kamila;+Welcome+to+my+Profile!💻" />     
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=++Hello+Everyone!!🚀;++++I+am+Bankim+Chandra+Kamila;+Welcome+to+my+Profile!💻" />     
   <div align="center">   
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
   </div>   
