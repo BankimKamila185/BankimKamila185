@@ -1,4 +1,4 @@
-<a href="https://komarev.com/ghpvc/?username=BankimKamila185 ">     
+  <a href="https://komarev.com/ghpvc/?username=BankimKamila185 ">     
     <img         <img align="rigth" src="https://komarev.com/ghpvc/?username=BankimKamila185-21&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 
      
@@ -68,9 +68,9 @@
  
 <p>
   <img align="right" width="400" src="/assets/programmer.gif" alt="Coding gif" />
- <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="35" height="35" /> &emsp;Enjoy doing programming    <br/><br/>
-  <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" /> &emsp;Love writing code and learning new features <br/><br/>
-  <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="35" height="35" /> Reach me anytime: bankimkamila185@gmail.com <br/><br/>
+ <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="35" height="35" />Enjoy doing programming    <br/><br/>
+  <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" />Love writing code and learning new features <br/><br/>
+  <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="35" height="35" />Reach me anytime: bankimkamila185@gmail.com <br/><br/>
 </p>
   <br/>
 
