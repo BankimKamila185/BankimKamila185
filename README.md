@@ -52,17 +52,6 @@
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   </div>
   
-  <a href="https://www.linkedin.com/in/bankim-chandra-kamila-b07b59236/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bankim Kamila"/>
-  </a>
-  
-  <a href="https://www.instagram.com/bankimkamila.23/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Bankim Kamila" />
-  </a>
-  
- 
-  <br/>
-  
   <!-- About Section -->
   # About me
   <a href="https://www.linkedin.com/in/bankim-chandra-kamila-b07b59236/" target="_blank">
