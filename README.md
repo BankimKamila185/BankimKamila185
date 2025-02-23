@@ -64,7 +64,7 @@
   <br/>
   
   <!-- About Section -->
-   About me
+  <b> About me </b>
   <p>
     <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     ✌️ &emsp; Enjoy doing programming <br/><br/>
