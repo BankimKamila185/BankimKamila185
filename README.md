@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Bankim Kamila" />
   </a>
   
-   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+   <img align="right" alt="Coding" width="400" src="https://www.tumblr.com/pixeljeff/772207445126856704/squid-game-night-shift?source=share">
   <br/>
  
   
@@ -71,7 +71,7 @@
     <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     ✌️ &emsp; Enjoy doing programming <br/><br/>
     ❤️ &emsp; Love writing code and learning new features <br/><br/>
-    📧 &emsp; Reach me anytime: mahajanpi2105@gmail.com <br/><br/>
+    📧 &emsp; Reach me anytime: bankimkamila185@gmail.com <br/><br/>
   </p>
   
   <br/>
