@@ -11,7 +11,7 @@
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
   </div>   
   
-  [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixeljeff.tumblr.com%2Fimage%2F711410966655533056&psig=AOvVaw2jKKppXkMiWcJbH6dYZV6r&ust=1740375645372000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjnudKK2YsDFQAAAAAdAAAAABBC)](https://github.com/BankimKamila185 )
+  [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/BankimKamila185 )
   
   <!-- Intro  -->
   <h3 align="center">
