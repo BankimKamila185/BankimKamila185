@@ -70,10 +70,8 @@
   <img align="right" width="400" src="/assets/programmer.gif" alt="Coding gif" />
  <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="35" height="35" /> &emsp;Enjoy doing programming    <br/><br/>
   <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" /> &emsp;Love writing code and learning new features <br/><br/>
-  <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="35" height="35" />&emsp;Reach me anytime: bankimkamila185@gmail.com <br/><br/>
+  <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="35" height="35" /> Reach me anytime: bankimkamila185@gmail.com <br/><br/>
 </p>
-
-  
   <br/>
 
   <div align="center">
@@ -158,7 +156,7 @@
   
   <a> 
     <a href="https://github.com/BankimKamila185">
-      <img alt="Mahajan Piyush Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=BankimKamila185&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+      <img alt="Bankim Kamila Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=BankimKamila185&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
     </a>
     <a href="https://github.com/BankimKamila185">
       <img alt="Bankim Kamila Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BankimKamila185&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
