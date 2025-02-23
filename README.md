@@ -54,11 +54,11 @@
   <!-- About Section -->
   # About me
   <a href="https://www.linkedin.com/in/bankim-chandra-kamila-b07b59236/" target="_blank">
-    <img width="50" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Bankim Kamila"/>
+    <img width="80" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Bankim Kamila"/>
   </a>
   
   <a href="https://www.instagram.com/bankimkamila.23/" target="_blank">
-    <img  width="50"src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Bankim Kamila" />
+    <img  width="80"src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Bankim Kamila" />
   </a>
   
    <img align="right" alt="Coding"  width="350" src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef">
@@ -67,7 +67,7 @@
   
  
 <p>
-  <img align="right" width="400" src="/assets/programmer.gif" alt="Coding gif" />
+  <img align="right" width="300" src="/assets/programmer.gif" alt="Coding gif" />
  <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="35" height="35" />Enjoy doing programming    <br/><br/>
   <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" />Love writing code and learning new features <br/><br/>
   <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="35" height="35" />Reach me anytime: bankimkamila185@gmail.com <br/><br/>
