@@ -66,7 +66,7 @@
   <!-- About Section -->
   # About me
   <p>
-    <img align="right" width="50" src="/assets/programmer.gif" alt="Coding gif" />
+    <img align="right" width="350" src="" alt="Coding gif" />
     ✌️ &emsp; Enjoy doing programming <br/><br/>
     ❤️ &emsp; Love writing code and learning new features <br/><br/>
     📧 &emsp; Reach me anytime: bankimkamila185@gmail.com <br/><br/>
