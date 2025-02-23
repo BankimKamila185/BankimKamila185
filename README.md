@@ -1,5 +1,5 @@
 <a href="https://komarev.com/ghpvc/?username=BankimKamila185 ">     
-    <img         <img align="right" src="https://komarev.com/ghpvc/?username=BankimKamila185-21&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+    <img         <img align="Center" src="https://komarev.com/ghpvc/?username=BankimKamila185-21&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 
      
   </a>                  
