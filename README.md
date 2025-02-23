@@ -50,6 +50,8 @@
   <div align="center">
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   </div>
+
+
   
   <!-- About Section -->
   # About me
@@ -64,11 +66,9 @@
    <img align="right" alt="Coding"  width="350" src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef">
   <br/>
 
-
 <p>
   <img align="right" width="300" src="/assets/programmer.gif" alt="Coding gif" />
  <img   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="35" height="35"/> ## Enjoy doing programming 
-
   <br/><br/>
   <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" /> Love writing code and learning new features
   <br/><br/>
