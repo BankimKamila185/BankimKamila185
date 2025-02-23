@@ -58,7 +58,7 @@
   </a>
   
   <a href="https://www.instagram.com/bankimkamila.23/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Bankim Kamila" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Bankim Kamila" />
   </a>
   
    <img align="right" alt="Coding"  width="350" src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef">
