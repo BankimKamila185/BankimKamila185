@@ -11,7 +11,7 @@
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
   </div>   
   
-  [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/BankimKamila185 )
+  [![MasterHead](https://pixeljeff.tumblr.com/image/711410966655533056)](https://github.com/BankimKamila185 )
   
   <!-- Intro  -->
   <h3 align="center">
