@@ -69,7 +69,7 @@
 <p style="font-size: 20px; font-family: 'Arial', sans-serif;">
   <img align="right" width="400" src="/assets/programmer.gif" alt="Coding gif" />
   ✌️ &emsp; Enjoy doing programming    <br/><br/>
-  ❤️ &emsp; Love writing code and learning new features <br/><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> &emsp; Love writing code and learning new features <br/><br/>
   📧 &emsp; Reach me anytime: bankimkamila185@gmail.com <br/><br/>
 </p>
 
