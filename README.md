@@ -67,7 +67,7 @@
   <br/>
 
 <p>
-  <img align="right" width="450" src="/assets/programmer.gif" alt="Coding gif" />
+  <img align="right" width="450" src="/assets/programmer.gif" />
   
  <img   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="35" height="35"/> 
   Enjoy doing programming 
