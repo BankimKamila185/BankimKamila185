@@ -27,6 +27,10 @@
 
 ### 👨‍💻 About Me
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
 ```typescript
 interface SoftwareEngineer {
   name: string;
@@ -34,7 +38,6 @@ interface SoftwareEngineer {
   location: string;
   focusAreas: string[];
   currentTechStack: string[];
-  hobbies: string[];
   contact: {
     email: string;
     linkedin: string;
@@ -48,19 +51,26 @@ const bankim: SoftwareEngineer = {
   focusAreas: [
     "Scalable Web Architecture & Microservices",
     "Cross-Platform Mobile Apps (Flutter)",
-    "Pixel-Perfect & High-Performance UI/UX",
-    "Data Structures & Algorithm Optimization"
+    "Pixel-Perfect & High-Performance UI/UX"
   ],
   currentTechStack: [
-    "TypeScript", "React", "Next.js", "Node.js", "Flutter", "Tailwind CSS"
+    "TypeScript", "React", "Next.js", "Flutter", "Node.js"
   ],
-  hobbies: ["Exploring Tech Stacks", "Open Source Contributing", "UI Prototyping"],
   contact: {
     email: "bankimkamila185@gmail.com",
     linkedin: "bankim-chandra-kamila"
   }
 };
 ```
+
+   </td>
+   <td width="40%" align="center" valign="middle">
+     <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="100%" alt="Coding GIF" />
+     <br />
+     <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" alt="Hacking GIF" style="border-radius: 8px; margin-top: 8px;" />
+   </td>
+  </tr>
+</table>
 
 ---
 
@@ -191,6 +201,18 @@ const bankim: SoftwareEngineer = {
   <a href="https://github.com/BankimKamila185">
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BankimKamila185&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=e0f2fe&area=true&hide_title=false" alt="Activity Graph" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Contribution Grid Snake -->
+  <h3>🐍 Contribution Snake Animation</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
