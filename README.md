@@ -40,29 +40,42 @@
 
 ### 👨‍💻 About Me
 
-<div align="center">
-  <!-- Centered Pixel Jeff Animation -->
-  <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="320" alt="Pixel Jeff Coding GIF" style="border-radius: 12px; box-shadow: 0 6px 25px rgba(0,0,0,0.5);" />
+<table>
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="100%" alt="Pixel Jeff Coding GIF" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+    </td>
+    <td width="58%" valign="top">
+      <h3>🚀 Full-Stack & Mobile Engineer</h3>
+      <a href="https://github.com/BankimKamila185">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&width=380&height=35&lines=Building+Scalable+Next.js+Apps;Crafting+Fluid+Flutter+Mobile+UIs;120%2B+DSA+Problems+Mastered" alt="Typing Tagline" />
+      </a>
+      <br /><br />
+      <p>👋 <b>Hey there!</b> I'm <b>Bankim Chandra Kamila</b>, based in India 🇮🇳.</p>
+      <p>💻 <b>Web:</b> Architecting modern platforms with <b>React, Next.js, TypeScript & Node.js</b>.</p>
+      <p>📱 <b>Mobile:</b> Building smooth 60fps cross-platform mobile apps with <b>Flutter & Dart</b>.</p>
+      <p>🧠 <b>DSA & Algorithms:</b> 120+ algorithmic challenges solved with high efficiency.</p>
+      <p>⚡ <b>Focus:</b> Clean architecture, fluid animations, high performance & scalability.</p>
+      <p>📫 <b>Email:</b> <a href="mailto:bankimkamila185@gmail.com"><b>bankimkamila185@gmail.com</b></a></p>
+    </td>
+  </tr>
+</table>
 
-  <br /><br />
-
-  <!-- Centered Multiline Typing Animation -->
-  <a href="https://github.com/BankimKamila185">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&multiline=true&center=true&vCenter=true&width=650&height=220&lines=👋+Hey+there!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Engineer+from+India+🇮🇳;🚀+Building+modern+apps+with+Next.js,+React+%26+Flutter;⚡+Passionate+about+Clean+Architecture+%26+UI%2FUX;🧠+Algorithmic+problem-solver+with+120%2B+DSA+solutions;📫+Contact:+bankimkamila185@gmail.com" alt="Full Animated Bio Typing" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Hacking GIF" style="border-radius: 10px;" />
-  <br /><br />
-  <h3>⚡ Developer Philosophy & Workflow</h3>
-  <p>🚀 <b>Scalable Architecture:</b> Clean code, maintainability, modularity, and high testability.</p>
-  <p>📱 <b>Mobile Experience:</b> High-framerate cross-platform applications using Flutter & Dart.</p>
-  <p>⚡ <b>Performance Optimization:</b> Fast rendering, optimized state management, and minimal bundle sizes.</p>
-  <p>🤝 <b>Collaboration:</b> Open to contributing to impactful open-source projects and developer communities.</p>
-</div>
+<!-- Highlights & Developer Philosophy -->
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <h3>⚡ Philosophy & Workflow</h3>
+      <p>🚀 <b>Scalable Architecture:</b> Clean code, maintainability, modularity, and high testability.</p>
+      <p>📱 <b>Mobile Experience:</b> High-framerate cross-platform applications using Flutter & Dart.</p>
+      <p>⚡ <b>Performance Optimization:</b> Fast rendering, optimized state management, and minimal bundle sizes.</p>
+      <p>🤝 <b>Collaboration:</b> Open to contributing to impactful open-source projects and developer communities.</p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" alt="Hacking GIF" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
