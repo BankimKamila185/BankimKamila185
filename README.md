@@ -1,194 +1,222 @@
-  <a href="https://komarev.com/ghpvc/?username=BankimKamila185 ">     
-    <img         <img align="rigth" src="https://komarev.com/ghpvc/?username=BankimKamila185-21&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<div align="center">
+  <!-- Header Animation -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=200&section=header&text=Bankim%20Chandra%20Kamila&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36" alt="Header Banner" />
 
-     
-  </a>                  
-  <div align="center">                                     
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">           
-  </div>             
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=++Hello+Everyone!!🚀;++I+am+Bankim+Chandra+Kamila;+Welcome+to+my+Profile!💻" />     
-  <div align="center">   
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
-  </div>   
-  <img align="Centre" alt="Coding"  width="100%" src= "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro">
-  
-  <!-- Intro  -->
-  <h3 align="center">
-    <samp style="font-family: 'YourFontHere';">&gt; Hey There! </samp> 
-  </h3>
-  
-  <p align="center"> 
-    <samp>Welcome to my coding journey! 🚀 Here, you'll find a curated collection of my best projects, mini-projects, and daily coding practice. From innovative applications to bite-sized coding exercises, this repository showcases my passion for programming and continuous learning.</samp>
-  </p>
-  
-  <p align="center">
-    <samp><strong>What's Inside:</strong></samp>
-  </p>
-  
-  <p align="center">
-    <samp>Projects: Explore my top-notch projects, each a testament to creativity and problem-solving skills.</samp>
-  </p>
-  
-  <p align="center">
-    <samp>Mini Projects: Discover compact yet impactful projects that demonstrate versatility and coding finesse.</samp>
-  </p>
-  
-  <p align="center">
-    <samp>Daily Practice: Peek into my coding journal with daily exercises, challenges, and solutions—because practice makes perfect.</samp>
-  </p>
-  
-  
-  
-  <p align="center">
-    <samp>🤝 Collaboration: Open to collaboration and feedback! Feel free to fork, contribute, or suggest enhancements to any project.</samp>
-  </p>
-  
-  <p align="center">
-    <samp>Let's Code Together: Join me on this coding adventure, and let's inspire each other to write cleaner, more efficient code. Happy coding! 🖥️ India</samp>
-  </p>
-  
-  <div align="center">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  </div>
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://github.com/BankimKamila185">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=⚡+Full-Stack+Web+%26+Mobile+Engineer;🚀+Building+Scalable,+High-Performance+Apps;💻+Specializing+in+Next.js,+React+%26+Flutter;✨+Passionate+About+Clean+Code+%26+UI%2FUX" alt="Typing SVG" />
+  </a>
 
+  <!-- Badges Row -->
+  <p align="center">
+    <a href="https://komarev.com/ghpvc/?username=BankimKamila185">
+      <img src="https://komarev.com/ghpvc/?username=BankimKamila185&label=Profile+Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/BankimKamila185?tab=followers">
+      <img src="https://img.shields.io/github/followers/BankimKamila185?label=Followers&logo=github&style=for-the-badge&color=10b981&logoColor=white" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/BankimKamila185?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-6366f1?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
+    </a>
+  </p>
+</div>
 
-  
-  <!-- About Section -->
-  # About me
+<br />
+
+---
+
+### 👨‍💻 About Me
+
+```typescript
+interface SoftwareEngineer {
+  name: string;
+  role: string;
+  location: string;
+  focusAreas: string[];
+  currentTechStack: string[];
+  hobbies: string[];
+  contact: {
+    email: string;
+    linkedin: string;
+  };
+}
+
+const bankim: SoftwareEngineer = {
+  name: "Bankim Chandra Kamila",
+  role: "Full-Stack & Mobile Developer",
+  location: "India 🇮🇳",
+  focusAreas: [
+    "Scalable Web Architecture & Microservices",
+    "Cross-Platform Mobile Apps (Flutter)",
+    "Pixel-Perfect & High-Performance UI/UX",
+    "Data Structures & Algorithm Optimization"
+  ],
+  currentTechStack: [
+    "TypeScript", "React", "Next.js", "Node.js", "Flutter", "Tailwind CSS"
+  ],
+  hobbies: ["Exploring Tech Stacks", "Open Source Contributing", "UI Prototyping"],
+  contact: {
+    email: "bankimkamila185@gmail.com",
+    linkedin: "bankim-chandra-kamila"
+  }
+};
+```
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+  <h4>🌐 Frontend & Mobile</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,flutter,dart,tailwind,html,css,redux&perline=10" alt="Frontend & Mobile" />
+    </a>
+  </p>
+
+  <h4>⚙️ Backend, Databases & Cloud</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,docker,vercel&perline=10" alt="Backend & DB" />
+    </a>
+  </p>
+
+  <h4>💻 Languages, Tools & Workflow</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode,postman,figma&perline=10" alt="Languages & Tools" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💍 Bankim Jewellery Store</h3>
+      <p align="center">
+        <a href="https://bankim-jewellery.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/BankimKamila185/Bankim-Jewellery-" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+      <ul>
+        <li>Modern full-featured e-commerce platform with sleek luxury styling.</li>
+        <li>Dynamic product catalog, interactive cart management, and seamless checkout flow.</li>
+        <li>Fully responsive with fast load times and optimized asset delivery.</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>React</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>Vercel</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📋 Assignly</h3>
+      <p align="center">
+        <a href="https://github.com/BankimKamila185/Assignly" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+      <ul>
+        <li>Workflow & assignment manager built for speed and effortless task tracking.</li>
+        <li>Engineered with strict type safety, modular state, and intuitive UX.</li>
+        <li>Includes real-time deadline monitoring and task prioritization filters.</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>TypeScript</code> <code>React</code> <code>Modern CSS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧳 LuggageTrack</h3>
+      <p align="center">
+        <a href="https://github.com/BankimKamila185/-LuggageTrack-" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+      <ul>
+        <li>Real-time luggage status tracking and inventory management interface.</li>
+        <li>Live tracking logs, intuitive metric dashboards, and state updates.</li>
+        <li>Clean, accessible layout built for high reliability.</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>JavaScript</code> <code>Node.js</code> <code>Frontend UI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💡 120+ Coding & DSA Mastery</h3>
+      <p align="center">
+        <a href="https://github.com/BankimKamila185/120_Question" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+      <ul>
+        <li>Curated problem-solving solutions spanning core data structures and algorithms.</li>
+        <li>Optimized for time and space complexity with detailed explanations.</li>
+        <li>Covers arrays, trees, dynamic programming, recursion, and graph theory.</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>Python</code> <code>Algorithms</code> <code>Data Structures</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <!-- Stats & Top Languages Side-by-Side -->
+  <a href="https://github.com/BankimKamila185">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=BankimKamila185&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" alt="Bankim's GitHub Stats" />
+  </a>
+  <a href="https://github.com/BankimKamila185">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BankimKamila185&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Streak Stats -->
+  <a href="https://github.com/BankimKamila185">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BankimKamila185&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Activity Graph -->
+  <a href="https://github.com/BankimKamila185">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BankimKamila185&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=e0f2fe&area=true&hide_title=false" alt="Activity Graph" />
+  </a>
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/bankim-chandra-kamila-b07b59236/" target="_blank">
-    <img width="80" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Bankim Kamila"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
+  &nbsp;
+  <a href="mailto:bankimkamila185@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/BankimKamila185" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
   <a href="https://www.instagram.com/bankimkamila.23/" target="_blank">
-    <img  width="80"src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Bankim Kamila" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  
-   <img align="right" alt="Coding"  width="350" src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef">
-  <br/>
+</div>
 
-<p>
-  <img align="right" width="450" src="/assets/programmer.gif" />
-  
- <img   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="35" height="35"/> 
-  Enjoy doing programming 
-  <br/><br/>
-  
-  <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" />
-   Love writing code and learning new features
-  <br/><br/>
-  
-  <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="35" height="35" />
-   Reach me anytime: bankimkamila185@gmail.com
-  <br/><br/>
-  
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
-  <br/>
-
-  <div align="center">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  </div>
-  
-  ## Use To Code
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-  <div align="left">
-    <h4>Languages:</h4>
-    <h4>IDEs:</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  </p>
-  </div>
-  </p>
-  <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color: white; border-radius: 5px;"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-</p>
-
-  
-  <h4>Version Control:</h4>
-  <p>
-      <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-  </p>
-  <h4>No Code:</h4>
-  <p>
-   <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
-   <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
-   <img src="https://www.latimes.com/coupon-codes/static/shop/37687/logo/Canva_Coupon.jpg" width="50" height="50" theme="light">
-  </p>
-      <div align="center">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  </div>
-  <div align="left">
-  <p align="left">
-    <a href="https://github.com/m-piyush-21?tab=repositories" target="_blank">
-      <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
-    </a>
-  </p>
-  
-  <br/>
-  <hr/>
-  
-  <p align="center">
-    <a href="https://github.com/BankimKamila185">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BankimKamila185&theme=radical&border=7F3FBF&background=0D1117" alt="BankimKamila185 GitHub streak"/>
-    </a>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/BankimKamila185">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BankimKamila185&theme=radical" alt="BankimKamila185 GitHub Contribution"/>
-    </a>
-  </p> 
-  
-  <a> 
-    <a href="https://github.com/BankimKamila185">
-      <img alt="Bankim Kamila Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=BankimKamila185&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-    </a>
-    <a href="https://github.com/BankimKamila185">
-      <img alt="Bankim Kamila Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BankimKamila185&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-    </a>
-    <br/>
-  </a>
-  
-  ![Bankim Kamila Graph](https://github-readme-activity-graph.vercel.app/graph?username=BankimKamila185&custom_title=Bankim%20Kamila's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-  
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/BankimKamila185/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-  
