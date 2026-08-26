@@ -42,25 +42,10 @@
 
 <img align="right" alt="Pixel Jeff Coding GIF" width="380" src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" style="border-radius: 12px; margin-left: 20px;" />
 
-<p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="30" height="30" /> <b>Bankim Chandra Kamila</b> — Full-Stack Web & Mobile Engineer based in India 🇮🇳.
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> <b>Full-Stack:</b> Architecting modern platforms with <b>Next.js, React, TypeScript & Node.js</b>.
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="30" height="30" /> <b>Mobile:</b> Building fluid 60fps cross-platform mobile apps with <b>Flutter & Dart</b>.
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="30" height="30" /> <b>Algorithms:</b> Passionate problem-solver with 120+ optimized DSA solutions.
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="30" height="30" /> <b>Contact:</b> <a href="mailto:bankimkamila185@gmail.com"><b>bankimkamila185@gmail.com</b></a>
-</p>
+<!-- Full Animated Multi-line Typing Bio -->
+<a href="https://github.com/BankimKamila185">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=17&pause=1000&color=38BDF8&multiline=true&width=560&height=240&lines=👋+Hey+there!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Engineer+from+India+🇮🇳;🚀+Building+modern+apps+with+Next.js,+React+%26+Flutter;⚡+Passionate+about+Clean+Architecture+%26+UI%2FUX;🧠+Algorithmic+problem-solver+with+120%2B+DSA+solutions;📫+Contact:+bankimkamila185@gmail.com" alt="Full Animated Bio Typing" />
+</a>
 
 <br clear="right" />
 
