@@ -1,38 +1,39 @@
 <div align="center">
-  <!-- Profile Badges -->
-  <a href="https://komarev.com/ghpvc/?username=BankimKamila185">     
-    <img src="https://komarev.com/ghpvc/?username=BankimKamila185&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile Visitors" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/BankimKamila185?tab=followers">
-    <img src="https://img.shields.io/github/followers/BankimKamila185?label=Followers&logo=github&style=for-the-badge&color=238636" alt="Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/BankimKamila185?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
+  <!-- Main Hero Banner GIF -->
+  <img alt="Hero Coding Banner" width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro" style="border-radius: 12px;" />
 
-  <!-- Animated Divider -->
-  <div align="center">                                     
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">           
-  </div>             
+  <br /><br />
 
   <!-- Dynamic Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=55&duration=4000&color=38BDF8&lines=++Hello+World!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Developer;🚀+Building+Scalable+Modern+Applications;✨+Passionate+About+Clean+Code+%26+UI%2FUX" alt="Typing SVG" />
+  <a href="https://github.com/BankimKamila185">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=👋+Hello+World!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Developer;🚀+Building+Scalable+Modern+Applications;✨+Passionate+About+Clean+Code+%26+UI%2FUX" alt="Typing SVG" />
+  </a>
+
+  <!-- Badges Row -->
+  <p align="center">
+    <a href="https://komarev.com/ghpvc/?username=BankimKamila185">     
+      <img src="https://komarev.com/ghpvc/?username=BankimKamila185&label=Visitors&color=0284c7&style=for-the-badge" alt="Profile Visitors" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/BankimKamila185?tab=followers">
+      <img src="https://img.shields.io/github/followers/BankimKamila185?label=Followers&logo=github&style=for-the-badge&color=238636" alt="Followers" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/BankimKamila185?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/bankim-chandra-kamila-b07b59236/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:bankimkamila185@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
   <!-- Animated Divider -->
-  <div align="center">   
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
-  </div>   
-
-  <!-- Main Hero GIF Banner -->
-  <img align="center" alt="Coding Banner" width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </div>
 
 ---
@@ -74,7 +75,7 @@
 </table>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </div>
 
 ---
@@ -107,7 +108,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </div>
 
 ---
@@ -181,7 +182,7 @@
 </table>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </div>
 
 ---
@@ -229,7 +230,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </div>
 
 ---
@@ -257,5 +258,5 @@
 <br />
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </div>
