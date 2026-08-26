@@ -40,26 +40,29 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Pixel Jeff Coding GIF" width="380" src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" style="border-radius: 12px; margin-left: 20px;" />
+<div align="center">
+  <!-- Centered Pixel Jeff Animation -->
+  <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="320" alt="Pixel Jeff Coding GIF" style="border-radius: 12px; box-shadow: 0 6px 25px rgba(0,0,0,0.5);" />
 
-<!-- Full Animated Multi-line Typing Bio -->
-<a href="https://github.com/BankimKamila185">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=17&pause=1000&color=38BDF8&multiline=true&width=560&height=240&lines=👋+Hey+there!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Engineer+from+India+🇮🇳;🚀+Building+modern+apps+with+Next.js,+React+%26+Flutter;⚡+Passionate+about+Clean+Architecture+%26+UI%2FUX;🧠+Algorithmic+problem-solver+with+120%2B+DSA+solutions;📫+Contact:+bankimkamila185@gmail.com" alt="Full Animated Bio Typing" />
-</a>
+  <br /><br />
 
-<br clear="right" />
+  <!-- Centered Multiline Typing Animation -->
+  <a href="https://github.com/BankimKamila185">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&multiline=true&center=true&vCenter=true&width=650&height=220&lines=👋+Hey+there!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Engineer+from+India+🇮🇳;🚀+Building+modern+apps+with+Next.js,+React+%26+Flutter;⚡+Passionate+about+Clean+Architecture+%26+UI%2FUX;🧠+Algorithmic+problem-solver+with+120%2B+DSA+solutions;📫+Contact:+bankimkamila185@gmail.com" alt="Full Animated Bio Typing" />
+  </a>
+</div>
 
-<img align="left" alt="Hacking GIF" width="360" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="border-radius: 10px; margin-right: 20px;" />
+<br />
 
-<h3>⚡ Developer Philosophy & Workflow</h3>
-<ul>
-  <li>🚀 <b>Scalable Architecture:</b> Clean code, maintainability, modularity, and high testability.</li>
-  <li>📱 <b>Mobile Experience:</b> High-framerate cross-platform applications using Flutter & Dart.</li>
-  <li>⚡ <b>Performance Optimization:</b> Fast rendering, optimized state management, and minimal bundle sizes.</li>
-  <li>🤝 <b>Collaboration:</b> Open to contributing to impactful open-source projects and developer communities.</li>
-</ul>
-
-<br clear="left" />
+<div align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Hacking GIF" style="border-radius: 10px;" />
+  <br /><br />
+  <h3>⚡ Developer Philosophy & Workflow</h3>
+  <p>🚀 <b>Scalable Architecture:</b> Clean code, maintainability, modularity, and high testability.</p>
+  <p>📱 <b>Mobile Experience:</b> High-framerate cross-platform applications using Flutter & Dart.</p>
+  <p>⚡ <b>Performance Optimization:</b> Fast rendering, optimized state management, and minimal bundle sizes.</p>
+  <p>🤝 <b>Collaboration:</b> Open to contributing to impactful open-source projects and developer communities.</p>
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
