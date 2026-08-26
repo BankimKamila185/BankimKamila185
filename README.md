@@ -51,12 +51,12 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&width=380&height=35&lines=Building+Scalable+Next.js+Apps;Crafting+Fluid+Flutter+Mobile+UIs;120%2B+DSA+Problems+Mastered" alt="Typing Tagline" />
       </a>
       <br /><br />
-      <p>👋 <b>Hey there!</b> I'm <b>Bankim Chandra Kamila</b>, based in India 🇮🇳.</p>
-      <p>💻 <b>Web:</b> Architecting modern platforms with <b>React, Next.js, TypeScript & Node.js</b>.</p>
-      <p>📱 <b>Mobile:</b> Building smooth 60fps cross-platform mobile apps with <b>Flutter & Dart</b>.</p>
-      <p>🧠 <b>DSA & Algorithms:</b> 120+ algorithmic challenges solved with high efficiency.</p>
-      <p>⚡ <b>Focus:</b> Clean architecture, fluid animations, high performance & scalability.</p>
-      <p>📫 <b>Email:</b> <a href="mailto:bankimkamila185@gmail.com"><b>bankimkamila185@gmail.com</b></a></p>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="22" height="22" style="vertical-align: middle;" /> <b>Hey there!</b> I'm <b>Bankim Chandra Kamila</b>, based in India 🇮🇳.</p>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" height="22" style="vertical-align: middle;" /> <b>Web Architecture:</b> Modern full-stack platforms with <b>React, Next.js, TypeScript & Node.js</b>.</p>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="22" height="22" style="vertical-align: middle;" /> <b>Mobile Apps:</b> Smooth 60fps cross-platform apps with <b>Flutter & Dart</b>.</p>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="22" height="22" style="vertical-align: middle;" /> <b>DSA Mastery:</b> 120+ algorithmic challenges solved with optimal time & space complexity.</p>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Zap.png" width="22" height="22" style="vertical-align: middle;" /> <b>Core Focus:</b> Clean architecture, fluid animations, high performance & scalability.</p>
+      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="22" height="22" style="vertical-align: middle;" /> <b>Email:</b> <a href="mailto:bankimkamila185@gmail.com"><b>bankimkamila185@gmail.com</b></a></p>
     </td>
   </tr>
 </table>
