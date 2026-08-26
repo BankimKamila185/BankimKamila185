@@ -86,22 +86,39 @@
 ### 🛠️ Tech Arsenal & Tools
 
 <div align="center">
+  <!-- Dynamic Tech Stack Typing Subtitle -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=35&lines=🌐+Frontend+%26+Mobile+Ecosystem;⚙%EF%B8%8F+Backend,+Databases+%26+Cloud;💻+Languages,+Developer+Tools+%26+Workflow" alt="Tech Stack Animation" />
 
-  <h4>🌐 Frontend & Mobile Architecture</h4>
+  <br /><br />
+
+  <!-- Frontend & Mobile -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&pause=800&color=60A5FA&center=true&vCenter=true&width=420&height=30&lines=🌐+Frontend+%26+Mobile+Architecture;⚡+Next.js+%7C+React+%7C+TypeScript+%7C+Flutter" alt="Frontend Header" />
+  </p>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,flutter,dart,tailwind,html,css,redux&perline=10" alt="Frontend & Mobile" />
     </a>
   </p>
 
-  <h4>⚙️ Backend, Databases & Cloud Systems</h4>
+  <br />
+
+  <!-- Backend & Cloud -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&pause=800&color=34D399&center=true&vCenter=true&width=420&height=30&lines=⚙️+Backend+%26+Cloud+Infrastructure;🔥+Node.js+%7C+Express+%7C+MongoDB+%7C+PostgreSQL" alt="Backend Header" />
+  </p>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,docker,vercel&perline=10" alt="Backend & DB" />
     </a>
   </p>
 
-  <h4>💻 Languages, Tools & Workflow</h4>
+  <br />
+
+  <!-- Languages & Tools -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&pause=800&color=F472B6&center=true&vCenter=true&width=420&height=30&lines=💻+Languages+%26+Developer+Tooling;🚀+Python+%7C+Java+%7C+C%2B%2B+%7C+Git+%7C+VS+Code" alt="Tools Header" />
+  </p>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode,postman,figma&perline=10" alt="Languages & Tools" />
