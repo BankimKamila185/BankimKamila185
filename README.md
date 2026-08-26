@@ -39,59 +39,48 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Pixel Jeff Coding GIF" width="360" src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" style="border-radius: 12px; margin-left: 20px;" />
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+```bash
+⚡ bankim@workspace:~$ neofetch --dev
+
+  ┌────────────────────────────────────────────────────────┐
+  │  👤 User       : Bankim Chandra Kamila                 │
+  │  💼 Role       : Full-Stack & Mobile App Engineer      │
+  │  📍 Location   : India 🇮🇳                              │
+  │  🚀 Stack      : Next.js • React • Flutter • Node.js   │
+  │  🎯 Focus      : High-Performance UI/UX & Architecture │
+  │  💡 Philosophy : "Write clean, build fast, scale well" │
+  │  📫 Contact    : bankimkamila185@gmail.com             │
+  └────────────────────────────────────────────────────────┘
+```
 
 <p>
-  <a href="https://www.linkedin.com/in/bankim-chandra-kamila-b07b59236/" target="_blank">
-    <img width="50" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn GIF"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/bankimkamila.23/" target="_blank">
-    <img width="50" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram GIF" />
-  </a>
+  <b>🚀 Current Focus:</b> Architecting high-converting web applications and frictionless cross-platform mobile apps with a strong emphasis on clean code, responsiveness, and performance.
 </p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face" width="28" height="28" style="vertical-align: middle;" /> 
-  <b>Hey there! I'm Bankim Chandra Kamila</b> — a passionate Full-Stack Web & Mobile Engineer based in India 🇮🇳.
-</p>
+   </td>
+   <td width="45%" align="center" valign="middle">
+     <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="95%" alt="Pixel Jeff Coding GIF" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" />
+   </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" style="vertical-align: middle;" />
-  <b>Full-Stack Web:</b> Specializing in <b>Next.js</b>, <b>React</b>, <b>TypeScript</b>, <b>Node.js</b> & modern architectures.
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="28" height="28" style="vertical-align: middle;" />
-  <b>Mobile App Engineering:</b> Crafting high-performance cross-platform mobile apps using <b>Flutter & Dart</b>.
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="28" height="28" style="vertical-align: middle;" />
-  <b>Passion:</b> Love writing clean, maintainable code, optimizing algorithmic logic, and crafting intuitive UI/UX.
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands" width="28" height="28" style="vertical-align: middle;" />
-  <b>Reach Me Anytime:</b> <a href="mailto:bankimkamila185@gmail.com"><b>bankimkamila185@gmail.com</b></a>
-</p>
-
-<br clear="right" />
-
-<!-- Developer Highlights -->
+<!-- Highlights & Terminal Vibe Card -->
 <table>
   <tr>
     <td width="40%" align="center" valign="middle">
       <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" alt="Hacking GIF" style="border-radius: 10px;" />
     </td>
     <td width="60%" valign="middle">
-      <h3>⚡ What I Bring to the Table</h3>
-      <ul>
-        <li>🚀 <b>Scalable Architecture:</b> Robust frontend interfaces with optimized backend services.</li>
-        <li>🎨 <b>Pixel-Perfect Design:</b> Focused on fluid responsive layouts, micro-interactions, and aesthetics.</li>
-        <li>🧩 <b>Problem Solving:</b> Strong foundation in Data Structures, Algorithms, and clean code principles.</li>
-        <li>🤝 <b>Open Collaboration:</b> Always eager to contribute to innovative open-source projects and products.</li>
-      </ul>
+      <h3>🔥 Quick Highlights</h3>
+      <p>🔭 <b>Currently Building:</b> Modern full-stack apps & scalable digital platforms</p>
+      <p>📱 <b>Mobile Engineering:</b> Smooth 60fps native-feel apps using Flutter & Dart</p>
+      <p>⚡ <b>Performance First:</b> Optimized loading speeds, clean UI design, and responsive layout</p>
+      <p>🧩 <b>Problem Solving:</b> Continuous DSA optimization & algorithm challenges</p>
+      <p>💬 <b>Ask Me About:</b> React, Next.js, TypeScript, Flutter, State Management & System Design</p>
     </td>
   </tr>
 </table>
