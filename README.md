@@ -6,7 +6,7 @@
 
   <!-- Dynamic Typing Animation Header -->
   <a href="https://github.com/BankimKamila185">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=👋+Hello+World!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Developer;🚀+Specializing+in+Next.js,+React+%26+Flutter;✨+Passionate+About+Clean+Code+%26+UI%2FUX;⚡+120%2B+DSA+Problems+Mastered" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=👋+Hello+World!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Developer;🚀+Specializing+in+Next.js,+React+%26+Flutter;✨+Passionate+About+Clean+Code+%26+UI%2FUX;⚡+120%2B+DSA+Problems+Mastered" alt="Typing SVG Animation" />
   </a>
 
   <!-- Profile & Social Badges -->
@@ -41,12 +41,6 @@
 ### 👨‍💻 About Me
 
 <img align="right" alt="Pixel Jeff Coding GIF" width="380" src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" style="border-radius: 12px; margin-left: 20px;" />
-
-<p>
-  <a href="https://github.com/BankimKamila185">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&width=450&height=35&lines=🚀+Architecting+Scalable+Web+Apps;📱+Crafting+Fluid+Flutter+Mobile+Apps;⚡+Performance-Driven+Engineering" alt="Bio Typing Animation" />
-  </a>
-</p>
 
 <p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="30" height="30" /> <b>Bankim Chandra Kamila</b> — Full-Stack Web & Mobile Engineer based in India 🇮🇳.
