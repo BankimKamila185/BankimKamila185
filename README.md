@@ -1,15 +1,15 @@
 <div align="center">
   <!-- Profile Badges -->
   <a href="https://komarev.com/ghpvc/?username=BankimKamila185">     
-    <img src="https://komarev.com/ghpvc/?username=BankimKamila185&label=Visitors&color=0e75b6&style=flat-square" alt="Profile Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=BankimKamila185&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile Visitors" />
   </a>
   &nbsp;
   <a href="https://github.com/BankimKamila185?tab=followers">
-    <img src="https://img.shields.io/github/followers/BankimKamila185?label=Followers&logo=github&style=flat-square&color=238636" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/BankimKamila185?label=Followers&logo=github&style=for-the-badge&color=238636" alt="Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/BankimKamila185?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-2962FF?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 
   <!-- Animated Divider -->
@@ -41,7 +41,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
 
 ```typescript
 interface SoftwareEngineer {
@@ -76,11 +76,27 @@ const bankim: SoftwareEngineer = {
 ```
 
    </td>
-   <td width="40%" align="center" valign="middle">
-     <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="100%" alt="Coding GIF" />
-     <br />
-     <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" alt="Hacking GIF" style="border-radius: 8px; margin-top: 8px;" />
+   <td width="45%" align="center" valign="middle">
+     <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="95%" alt="Pixel Jeff Coding GIF" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" />
    </td>
+  </tr>
+</table>
+
+<!-- Highlights & Hacking Vibe Section -->
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="90%" alt="Hacking GIF" style="border-radius: 10px;" />
+    </td>
+    <td width="50%" valign="middle">
+      <h3>⚡ Developer Mindset</h3>
+      <ul>
+        <li>🚀 <b>Engineering Excellence:</b> Passionate about building intuitive, performant, and resilient applications.</li>
+        <li>📱 <b>Multi-Platform:</b> Crafting frictionless experiences across Web, Mobile, and Cloud Backends.</li>
+        <li>🧠 <b>Continuous Evolution:</b> Solving complex algorithmic puzzles and exploring modern architectures.</li>
+        <li>🤝 <b>Collaboration:</b> Eager to partner on impactful open-source ideas and scalable products.</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
