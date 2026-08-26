@@ -46,17 +46,17 @@
       <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="100%" alt="Pixel Jeff Coding GIF" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
     </td>
     <td width="58%" valign="top">
-      <h3>🚀 Full-Stack & Mobile Engineer</h3>
+      <h3>🚀 Full-Stack Developer & Builder</h3>
       <a href="https://github.com/BankimKamila185">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&width=380&height=35&lines=Building+Scalable+Next.js+Apps;Crafting+Fluid+Flutter+Mobile+UIs;120%2B+DSA+Problems+Mastered" alt="Typing Tagline" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&width=380&height=35&lines=Building+Scalable+Web+Apps;E-Commerce+%26+Workflow+Tools;120%2B+DSA+Problems+Mastered" alt="Typing Tagline" />
       </a>
       <br /><br />
-      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="22" height="22" style="vertical-align: middle;" /> <b>Hey there!</b> I'm <b>Bankim Chandra Kamila</b>, based in India 🇮🇳.</p>
-      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" height="22" style="vertical-align: middle;" /> <b>Web Architecture:</b> Modern full-stack platforms with <b>React, Next.js, TypeScript & Node.js</b>.</p>
-      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="22" height="22" style="vertical-align: middle;" /> <b>Mobile Apps:</b> Smooth 60fps cross-platform apps with <b>Flutter & Dart</b>.</p>
-      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="22" height="22" style="vertical-align: middle;" /> <b>DSA Mastery:</b> 120+ algorithmic challenges solved with optimal time & space complexity.</p>
-      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Zap.png" width="22" height="22" style="vertical-align: middle;" /> <b>Core Focus:</b> Clean architecture, fluid animations, high performance & scalability.</p>
-      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="22" height="22" style="vertical-align: middle;" /> <b>Email:</b> <a href="mailto:bankimkamila185@gmail.com"><b>bankimkamila185@gmail.com</b></a></p>
+      <p>👋 <b>Hey there!</b> I'm <b>Bankim Chandra Kamila</b>, a Full-Stack Engineer based in India 🇮🇳.</p>
+      <p>💍 <b>E-Commerce:</b> Developed <a href="https://bankim-jewellery.vercel.app" target="_blank"><b>Bankim Jewellery Store</b></a> — modern e-commerce platform with dynamic catalog, cart & checkout.</p>
+      <p>📋 <b>Productivity:</b> Built <a href="https://github.com/BankimKamila185/Assignly" target="_blank"><b>Assignly</b></a> — task and assignment workflow manager with strict type safety.</p>
+      <p>🧳 <b>Tracking Systems:</b> Created <a href="https://github.com/BankimKamila185/-LuggageTrack-" target="_blank"><b>LuggageTrack</b></a> — interactive real-time tracking and inventory status tool.</p>
+      <p>💡 <b>Problem Solving:</b> Mastered <a href="https://github.com/BankimKamila185/120_Question" target="_blank"><b>120+ DSA Problems</b></a> across algorithms and data structures.</p>
+      <p>📫 <b>Email:</b> <a href="mailto:bankimkamila185@gmail.com"><b>bankimkamila185@gmail.com</b></a></p>
     </td>
   </tr>
 </table>
@@ -67,7 +67,7 @@
     <td width="58%" valign="middle">
       <h3>⚡ Philosophy & Workflow</h3>
       <p>🚀 <b>Scalable Architecture:</b> Clean code, maintainability, modularity, and high testability.</p>
-      <p>📱 <b>Mobile Experience:</b> High-framerate cross-platform applications using Flutter & Dart.</p>
+      <p>🎨 <b>User-Centric UI:</b> Crafting modern, high-converting interfaces with Tailwind CSS & React.</p>
       <p>⚡ <b>Performance Optimization:</b> Fast rendering, optimized state management, and minimal bundle sizes.</p>
       <p>🤝 <b>Collaboration:</b> Open to contributing to impactful open-source projects and developer communities.</p>
     </td>
