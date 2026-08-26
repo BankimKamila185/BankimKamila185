@@ -17,8 +17,8 @@
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">           
   </div>             
 
-  <!-- Dynamic Typing Subtitle -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=550&height=50&duration=4000&color=38BDF8&lines=++Hello+Everyone!!🚀;++I+am+Bankim+Chandra+Kamila;+Welcome+to+my+Profile!💻" alt="Typing SVG" />
+  <!-- Dynamic Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=55&duration=4000&color=38BDF8&lines=++Hello+World!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Developer;🚀+Building+Scalable+Modern+Applications;✨+Passionate+About+Clean+Code+%26+UI%2FUX" alt="Typing SVG" />
 
   <!-- Animated Divider -->
   <div align="center">   
@@ -37,50 +37,38 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me & Animated Terminal
 
 <table>
   <tr>
     <td width="55%" valign="top">
-
-```bash
-⚡ bankim@workspace:~$ neofetch --dev
-
-  ┌────────────────────────────────────────────────────────┐
-  │  👤 User       : Bankim Chandra Kamila                 │
-  │  💼 Role       : Full-Stack & Mobile App Engineer      │
-  │  📍 Location   : India 🇮🇳                              │
-  │  🚀 Stack      : Next.js • React • Flutter • Node.js   │
-  │  🎯 Focus      : High-Performance UI/UX & Architecture │
-  │  💡 Philosophy : "Write clean, build fast, scale well" │
-  │  📫 Contact    : bankimkamila185@gmail.com             │
-  └────────────────────────────────────────────────────────┘
-```
-
-<p>
-  <b>🚀 Current Focus:</b> Architecting high-converting web applications and frictionless cross-platform mobile apps with a strong emphasis on clean code, responsiveness, and performance.
-</p>
-
-   </td>
-   <td width="45%" align="center" valign="middle">
-     <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="95%" alt="Pixel Jeff Coding GIF" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" />
-   </td>
+      <!-- Animated Multiline Typing Terminal -->
+      <a href="https://github.com/BankimKamila185">
+        <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&multiline=true&width=450&height=170&lines=👋+Hey+there!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Engineer;🚀+Next.js+%7C+React+%7C+TypeScript+%7C+Flutter;⚡+Passionate+About+Pixel-Perfect+UI%2FUX;🔥+Always+Building+%26+Optimizing;📍+Based+in+India+🇮🇳" alt="Animated Multiline Terminal" />
+      </a>
+      <br /><br />
+      <!-- Animated Daily Dev Quote Widget -->
+      <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" />
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="95%" alt="Pixel Jeff Coding GIF" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+    </td>
   </tr>
 </table>
 
-<!-- Highlights & Terminal Vibe Card -->
+<!-- Highlights & Hacker Animation Card -->
 <table>
   <tr>
-    <td width="40%" align="center" valign="middle">
+    <td width="38%" align="center" valign="middle">
       <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" alt="Hacking GIF" style="border-radius: 10px;" />
     </td>
-    <td width="60%" valign="middle">
-      <h3>🔥 Quick Highlights</h3>
-      <p>🔭 <b>Currently Building:</b> Modern full-stack apps & scalable digital platforms</p>
-      <p>📱 <b>Mobile Engineering:</b> Smooth 60fps native-feel apps using Flutter & Dart</p>
-      <p>⚡ <b>Performance First:</b> Optimized loading speeds, clean UI design, and responsive layout</p>
-      <p>🧩 <b>Problem Solving:</b> Continuous DSA optimization & algorithm challenges</p>
-      <p>💬 <b>Ask Me About:</b> React, Next.js, TypeScript, Flutter, State Management & System Design</p>
+    <td width="62%" valign="middle">
+      <h3>⚡ Core Strengths & Workflow</h3>
+      <p>🚀 <b>Frontend & UI:</b> Next.js, React, Tailwind CSS, TypeScript & Animations</p>
+      <p>📱 <b>Mobile Apps:</b> Seamless 60fps cross-platform mobile apps with Flutter & Dart</p>
+      <p>⚙️ <b>Backend & Cloud:</b> Node.js, Express, MongoDB, PostgreSQL & RESTful APIs</p>
+      <p>🧠 <b>Data Structures:</b> Algorithmic problem solver with 120+ optimized solutions</p>
+      <p>💡 <b>Philosophy:</b> <i>"Clean code, seamless user experience & relentless curiosity."</i></p>
     </td>
   </tr>
 </table>
@@ -91,25 +79,25 @@
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Tech Arsenal & Frameworks
 
 <div align="center">
 
-  <h4>🌐 Frontend & Mobile</h4>
+  <h4>🌐 Frontend & Mobile Architecture</h4>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,flutter,dart,tailwind,html,css,redux&perline=10" alt="Frontend & Mobile" />
     </a>
   </p>
 
-  <h4>⚙️ Backend, Databases & Cloud</h4>
+  <h4>⚙️ Backend, Databases & Cloud Systems</h4>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,docker,vercel&perline=10" alt="Backend & DB" />
     </a>
   </p>
 
-  <h4>💻 Languages, Tools & Workflow</h4>
+  <h4>💻 Languages, Tools & Development</h4>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode,postman,figma&perline=10" alt="Languages & Tools" />
@@ -198,7 +186,7 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Activity & Real-Time Stats
 
 <div align="center">
   <!-- Stats & Top Languages Side-by-Side -->
@@ -231,8 +219,8 @@
 <br />
 
 <div align="center">
-  <!-- Contribution Grid Snake -->
-  <h3>🐍 Contribution Snake Animation</h3>
+  <!-- Contribution Grid Snake Animation -->
+  <h3>🐍 Contribution Snake Grid</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
