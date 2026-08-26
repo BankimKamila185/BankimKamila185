@@ -1,15 +1,15 @@
 <div align="center">
-  <!-- Main Hero Banner GIF -->
-  <img alt="Hero Coding Banner" width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro" style="border-radius: 12px;" />
+  <!-- Hero Banner GIF -->
+  <img alt="Coding Banner" width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro" style="border-radius: 12px;" />
 
   <br /><br />
 
-  <!-- Dynamic Typing Header -->
+  <!-- Animated Typing Subtitle -->
   <a href="https://github.com/BankimKamila185">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=👋+Hello+World!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Developer;🚀+Building+Scalable+Modern+Applications;✨+Passionate+About+Clean+Code+%26+UI%2FUX" alt="Typing SVG" />
   </a>
 
-  <!-- Badges Row -->
+  <!-- Profile & Social Badges -->
   <p align="center">
     <a href="https://komarev.com/ghpvc/?username=BankimKamila185">     
       <img src="https://komarev.com/ghpvc/?username=BankimKamila185&label=Visitors&color=0284c7&style=for-the-badge" alt="Profile Visitors" />
@@ -38,38 +38,36 @@
 
 ---
 
-### 👨‍💻 About Me & Animated Terminal
+### 👨‍💻 About Me
 
 <table>
   <tr>
-    <td width="55%" valign="top">
-      <!-- Animated Multiline Typing Terminal -->
-      <a href="https://github.com/BankimKamila185">
-        <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&multiline=true&width=450&height=170&lines=👋+Hey+there!+I'm+Bankim+Chandra+Kamila;💻+Full-Stack+Web+%26+Mobile+Engineer;🚀+Next.js+%7C+React+%7C+TypeScript+%7C+Flutter;⚡+Passionate+About+Pixel-Perfect+UI%2FUX;🔥+Always+Building+%26+Optimizing;📍+Based+in+India+🇮🇳" alt="Animated Multiline Terminal" />
-      </a>
-      <br /><br />
-      <!-- Animated Daily Dev Quote Widget -->
-      <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" />
+    <td width="60%" valign="middle">
+      <p>👋 <b>Hey there!</b> I'm <b>Bankim Chandra Kamila</b>, a Full-Stack Web & Mobile Engineer based in India 🇮🇳.</p>
+      <p>🚀 <b>What I Do:</b> I specialize in building responsive, high-performance web platforms and native-feel cross-platform mobile apps with seamless user experiences.</p>
+      <p>💻 <b>Core Stack:</b> Next.js, React, TypeScript, Node.js, and Flutter.</p>
+      <p>💡 <b>Passion:</b> Writing clean, scalable architecture, mastering Data Structures & Algorithms, and crafting pixel-perfect interfaces.</p>
+      <p>🌱 <b>Currently Exploring:</b> Advanced system design, distributed backends, and cloud microservices.</p>
+      <p>📫 <b>Get In Touch:</b> Feel free to reach out via <a href="mailto:bankimkamila185@gmail.com"><b>bankimkamila185@gmail.com</b></a> or on <a href="https://www.linkedin.com/in/bankim-chandra-kamila-b07b59236/"><b>LinkedIn</b></a>.</p>
     </td>
-    <td width="45%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="95%" alt="Pixel Jeff Coding GIF" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
     </td>
   </tr>
 </table>
 
-<!-- Highlights & Hacker Animation Card -->
+<!-- Daily Grind & Highlights -->
 <table>
   <tr>
     <td width="38%" align="center" valign="middle">
       <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" alt="Hacking GIF" style="border-radius: 10px;" />
     </td>
     <td width="62%" valign="middle">
-      <h3>⚡ Core Strengths & Workflow</h3>
-      <p>🚀 <b>Frontend & UI:</b> Next.js, React, Tailwind CSS, TypeScript & Animations</p>
-      <p>📱 <b>Mobile Apps:</b> Seamless 60fps cross-platform mobile apps with Flutter & Dart</p>
-      <p>⚙️ <b>Backend & Cloud:</b> Node.js, Express, MongoDB, PostgreSQL & RESTful APIs</p>
-      <p>🧠 <b>Data Structures:</b> Algorithmic problem solver with 120+ optimized solutions</p>
-      <p>💡 <b>Philosophy:</b> <i>"Clean code, seamless user experience & relentless curiosity."</i></p>
+      <h3>⚡ Highlights & Philosophy</h3>
+      <p>🎯 <b>Engineering Focus:</b> Clean code, maintainability, modularity, and high testability.</p>
+      <p>📱 <b>Mobile Experience:</b> High-framerate cross-platform applications using Flutter & Dart.</p>
+      <p>⚡ <b>Performance Optimization:</b> Fast rendering, optimized state management, and minimal bundle sizes.</p>
+      <p>🤝 <b>Collaboration:</b> Open to contributing to impactful open-source projects and developer communities.</p>
     </td>
   </tr>
 </table>
@@ -80,7 +78,7 @@
 
 ---
 
-### 🛠️ Tech Arsenal & Frameworks
+### 🛠️ Tech Arsenal & Tools
 
 <div align="center">
 
@@ -98,7 +96,7 @@
     </a>
   </p>
 
-  <h4>💻 Languages, Tools & Development</h4>
+  <h4>💻 Languages, Tools & Workflow</h4>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode,postman,figma&perline=10" alt="Languages & Tools" />
@@ -187,7 +185,7 @@
 
 ---
 
-### 📊 GitHub Activity & Real-Time Stats
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
   <!-- Stats & Top Languages Side-by-Side -->
