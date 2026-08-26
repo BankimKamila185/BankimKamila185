@@ -12,7 +12,7 @@
   <!-- Profile & Social Badges -->
   <p align="center">
     <a href="https://komarev.com/ghpvc/?username=BankimKamila185">     
-      <img src="https://komarev.com/ghpvc/?username=BankimKamila185&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile Visitors" />
+      <img src="https://komarev.com/ghpvc/?username=BankimKamila185&label=Visitors&color=0284c7&style=for-the-badge" alt="Profile Visitors" />
     </a>
     &nbsp;
     <a href="https://github.com/BankimKamila185?tab=followers">
@@ -40,55 +40,41 @@
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <!-- Live Interactive Code Typing Animation -->
-      <a href="https://github.com/BankimKamila185">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&width=480&height=48&lines=%24+node+bankim.js;const+role+%3D+'Full-Stack+%26+Mobile+Engineer'%3B;const+stack+%3D+['Next.js',+'React',+'Flutter']%3B;dev.optimize('Performance+%26+Clean+Architecture')%3B;console.log('Building+Scalable+Products+%E2%9C%A8')%3B" alt="Coding Typing Animation" />
-      </a>
-      
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="22" height="22" style="vertical-align: middle;" /> <b>Bankim Chandra Kamila</b> — Full-Stack Web & Mobile Engineer based in India 🇮🇳.
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" height="22" style="vertical-align: middle;" /> <b>Full-Stack:</b> Architecting modern platforms with <b>Next.js, React, TypeScript & Node.js</b>.
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="22" height="22" style="vertical-align: middle;" /> <b>Mobile:</b> Building fluid 60fps cross-platform mobile apps with <b>Flutter & Dart</b>.
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="22" height="22" style="vertical-align: middle;" /> <b>Algorithms:</b> Passionate problem-solver with 120+ optimized DSA solutions.
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="22" height="22" style="vertical-align: middle;" /> <b>Contact:</b> <a href="mailto:bankimkamila185@gmail.com"><b>bankimkamila185@gmail.com</b></a>
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" width="95%" alt="Pixel Jeff Coding GIF" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Pixel Jeff Coding GIF" width="380" src="https://github.com/user-attachments/assets/06cb39ae-0190-4366-897b-0f8d9ce5a4ef" style="border-radius: 12px; margin-left: 20px;" />
 
-<!-- Daily Grind & Highlights -->
-<table>
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" alt="Hacking GIF" style="border-radius: 10px;" />
-    </td>
-    <td width="62%" valign="middle">
-      <!-- Live Typing Code Loop -->
-      <a href="https://github.com/BankimKamila185">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=10B981&width=450&height=40&lines=while(alive)+%7B+code()%3B+learn()%3B+ship()%3B+%7D;git+commit+-m+'feat:+scalable+architecture'%3B;deploy.to('cloud')%3B" alt="Live Code Terminal Loop" />
-      </a>
-      <br />
-      <p>🎯 <b>Engineering Focus:</b> Clean code, maintainability, modularity, and high testability.</p>
-      <p>📱 <b>Mobile Experience:</b> High-framerate cross-platform applications using Flutter & Dart.</p>
-      <p>⚡ <b>Performance Optimization:</b> Fast rendering, optimized state management, and minimal bundle sizes.</p>
-      <p>🤝 <b>Collaboration:</b> Open to contributing to impactful open-source projects and developer communities.</p>
-    </td>
-  </tr>
-</table>
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="30" height="30" /> <b>Bankim Chandra Kamila</b> — Full-Stack Web & Mobile Engineer based in India 🇮🇳.
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> <b>Full-Stack:</b> Architecting modern platforms with <b>Next.js, React, TypeScript & Node.js</b>.
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="30" height="30" /> <b>Mobile:</b> Building fluid 60fps cross-platform mobile apps with <b>Flutter & Dart</b>.
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="30" height="30" /> <b>Algorithms:</b> Passionate problem-solver with 120+ optimized DSA solutions.
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="30" height="30" /> <b>Contact:</b> <a href="mailto:bankimkamila185@gmail.com"><b>bankimkamila185@gmail.com</b></a>
+</p>
+
+<br clear="right" />
+
+<img align="left" alt="Hacking GIF" width="360" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="border-radius: 10px; margin-right: 20px;" />
+
+<h3>⚡ Developer Philosophy & Workflow</h3>
+<ul>
+  <li>🚀 <b>Scalable Architecture:</b> Clean code, maintainability, modularity, and high testability.</li>
+  <li>📱 <b>Mobile Experience:</b> High-framerate cross-platform applications using Flutter & Dart.</li>
+  <li>⚡ <b>Performance Optimization:</b> Fast rendering, optimized state management, and minimal bundle sizes.</li>
+  <li>🤝 <b>Collaboration:</b> Open to contributing to impactful open-source projects and developer communities.</li>
+</ul>
+
+<br clear="left" />
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
